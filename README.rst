@@ -28,7 +28,7 @@ Probably requires Minetest v5.0 (or later).
 
 Hard dependencies: default
 
-Soft dependencies: none
+Soft dependencies: pipeworks
 
 Licenses
 --------
