@@ -23,7 +23,7 @@ twchests = {}
 
 twchests.name = "twchests"
 twchests.ver_max = 1
-twchests.ver_min = 0
+twchests.ver_min = 2
 twchests.ver_rev = 0
 
 twchests.path_mod = minetest.get_modpath(minetest.get_current_modname())

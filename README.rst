@@ -33,9 +33,13 @@ Soft dependencies: pipeworks
 Licenses
 --------
 
-The code and textures have been adapted from minetest_game/default.
+The code and textures have been adapted from `minetest_game <https://github.com/minetest/minetest_game>`__.
 
-Author: A S Lewis
+Mod Author: A S Lewis
+
+Original authors (code): Perttu Ahola et al
+
+Original authors (Textures): BlockMen
 
 Licence (code): LGPL 2.1
 

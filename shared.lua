@@ -694,7 +694,7 @@ function twchests.register_chest(data_table)
         end
 
         if pipeworks_flag then
-            on_rotate = pipeworks.on_rotate
+            def_table.on_rotate = pipeworks.on_rotate
         end
 
     end
